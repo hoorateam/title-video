@@ -15,5 +15,8 @@
   "متن۱۴": " HooRAteam",
   "متن۱۵": " HooRAteam",
   "متن۱۶": " HooRAteam",
-  "متن۱۷": " HooRAteam"
+  "متن۱۷": " HooRAteam",
+  "متن۱۸": " HooRAteam",
+  "متن۱۹": " HooRAteam",
+  "متن۲۰": " HooRAteam"
 }
